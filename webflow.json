@@ -1,0 +1,7 @@
+{
+  "library": {
+    "id": "651ec09e-ae35-41f8-8f6f-4d09574f0c42",
+    "name": "Test Pie Components",
+    "components": ["./src/components/**/*.webflow.@(js|jsx|mjs|ts|tsx)"]
+  }
+}

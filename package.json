@@ -10,10 +10,15 @@
   "dependencies": {
     "next": "^15",
     "react": "^19",
-    "react-dom": "^19"
+    "react-dom": "^19",
+    "swiper": "^12.1.2"
   },
   "devDependencies": {
+    "@types/node": "25.3.3",
     "@types/react": "^19",
+    "@webflow/data-types": "^1.2.1",
+    "@webflow/react": "^1.2.1",
+    "@webflow/webflow-cli": "^1.12.3",
     "typescript": "^5"
   }
 }
