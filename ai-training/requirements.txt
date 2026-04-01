@@ -1,0 +1,21 @@
+# Core ML libraries
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Diffusion model training & inference
+diffusers>=0.25.0
+transformers>=4.36.0
+accelerate>=0.25.0
+peft>=0.7.0
+safetensors>=0.4.0
+
+# Image processing
+Pillow>=10.0.0
+requests>=2.31.0
+
+# Optional: auto-captioning with BLIP
+# (uncomment if you want to use BLIP for auto-captions)
+# salesforce-lavis>=1.0.0
+
+# Optional: faster attention (recommended for training)
+# xformers>=0.0.23
